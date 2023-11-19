@@ -1,0 +1,15 @@
+{
+  "characters": "Characters",
+  "episodes": "Episodes",
+  "locations": "Locations",
+  "rickAndMorty": "Rick and Morty",
+  "loadingDataError": "Couldn't load data",
+  "location": "Location",
+  "origin": "Origin",
+  "gender": "Gender",
+  "type": "Type",
+  "species": "Species",
+  "male": "Male",
+  "female": "Female",
+  "unknown": "Unknown"
+}

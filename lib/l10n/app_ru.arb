@@ -1,0 +1,15 @@
+{
+  "characters": "Персонажи",
+  "episodes": "Серии",
+  "locations": "Локации",
+  "rickAndMorty": "Рик и Морти",
+  "loadingDataError": "Не удалось загрузить данные",
+  "location": "Местоположение",
+  "origin": "Родной дом",
+  "gender": "Пол",
+  "type": "Тип",
+  "species": "Вид",
+  "male": "Мужчина",
+  "female": "Женщина",
+  "unknown": "Неизвестно"
+}
